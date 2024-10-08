@@ -1,0 +1,3 @@
+[submodule "hsl-mm-fit"]
+	path = hsl_mm_fit
+	url = git@github.com:hsanderr/hsl-mm-fit.git
