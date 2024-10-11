@@ -1,3 +1,6 @@
 [submodule "hsl-mm-fit"]
 	path = hsl_mm_fit
 	url = git@github.com:hsanderr/hsl-mm-fit.git
+[submodule "firmware/TinyWT-ino"]
+	path = firmware/TinyWT-ino
+	url = git@github.com:hsanderr/TinyWT-ino.git
